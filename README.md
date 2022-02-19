@@ -1,2 +1,2 @@
 # loop-calc
-loop-calc.py
+No limit calculator in python
